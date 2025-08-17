@@ -78,4 +78,4 @@ To connect two MPU6050 sensors on the same I2C bus:
 
 ## 🎉 Enjoy Air Drumming!
 
-Crafted with passion by **Banu Prasath**
+Crafted with passion by **Banu Prasath,Pravin, Siva Shunmugam, Karthikeyan**
